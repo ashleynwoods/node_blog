@@ -1,0 +1,20 @@
+i.icon{
+	font-size:2em;
+}
+
+.container.main{
+	margin-top: 7.0em;
+}
+
+#delete{
+	display:inline;
+}
+
+.blog-item .button{
+	margin-top:10px;
+}
+
+.blog-item .button i{
+	position:relative;
+	top:6px;
+}
